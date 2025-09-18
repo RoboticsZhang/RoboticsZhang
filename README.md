@@ -6,7 +6,7 @@ Check out my personal page https://roboticszhang.github.io/ for more information
 
 Some code repositories of my research:
 
-| <a href="Radar-Diffusion"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJU-FAST-Lab&repo=Radar-Diffusion&theme=buefy" /></a> | <a href="https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJU-FAST-Lab&repo=Terrestrial-Aerial-Navigation&theme=buefy" /></a> |
+| <a href="Radar-Diffusion"><img align="center" src="https://github.com/ZJU-FAST-Lab/Radar-Diffusion" /></a> | <a href="https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation"><img align="center" src="https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="https://github.com/ZJU-FAST-Lab/Fast-tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJU-FAST-Lab&repo=Fast-tracker&theme=buefy" /></a> | <a href="https://github.com/ZJU-FAST-Lab/TABV-Platform"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJU-FAST-Lab&repo=TABV-Platform&theme=buefy" /></a> |
+| <a href="https://github.com/ZJU-FAST-Lab/Fast-tracker"><img align="center" src="https://github.com/ZJU-FAST-Lab/Fast-tracker" /></a> | <a href="https://github.com/ZJU-FAST-Lab/TABV-Platform"><img align="center" src="https://github.com/ZJU-FAST-Lab/TABV-Platform" /></a> |
 
